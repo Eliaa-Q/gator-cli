@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1771932424866,
+      "tag": "0000_lean_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1771944770219,
+      "tag": "0001_known_peter_quill",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1771978817901,
+      "tag": "0002_nostalgic_patch",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772016827212,
+      "tag": "0003_jazzy_senator_kelly",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1772019683035,
+      "tag": "0004_old_mister_sinister",
+      "breakpoints": true
+    }
+  ]
+}
